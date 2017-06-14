@@ -1,0 +1,41 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote {
+    margin: 0;
+    padding: 0;
+}
+h1{
+	color: #F6F6F6;
+}
+body {
+    font-size: 12px;
+    font-family: "微软雅黑";
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.comWidth{
+	width: 1190px;
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+	color: gray;
+}
+input,select,textarea{
+	outline: none;
+	border: none;
+}
+.color_red{
+	color: red;
+}
+.cleanfix{
+	zoom: 1;
+}
+.clean{
+	clear: both;
+}
+.bg{
+	background-color:#f65;
+}
