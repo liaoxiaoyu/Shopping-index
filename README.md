@@ -1,3 +1,3 @@
 # Shopping-index
 
-![GIF 图片](/static/1.png)
+![展示 图片](/pic/1.png)
